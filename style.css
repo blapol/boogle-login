@@ -1,0 +1,78 @@
+html {
+  background-color: e7e5e5;
+}
+
+
+p {
+    font-family: Roboto, Sans-serif;
+    margin-left: 0px;
+}
+
+h2 {
+  font-family: Roboto, Sans-serif;
+  margin-top: 40px;
+  margin-left: 0px;
+  }
+
+.container {
+  background-color: white;
+  height: 400px;
+  width: 400px;
+  padding: 50px 40px;
+  margin: 100px auto 100px auto;
+  position: relative;
+  box-shadow: 2px 2px 2px 2px #757474;
+ }
+
+img {
+  width: 150px;
+  position: absolute;
+  top: 20px;
+  left: 35px;
+}
+
+button {
+  width: 100px;
+  height: 40px;
+  position: absolute;
+  top: 350px;
+  margin-left: -70px;
+  border-radius: 5px;
+  background-color: #4885ed;
+  cursor: pointer;
+  color: white;
+  }
+input[type=text] {
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid #c0bebe;
+  width: 350px;
+}
+
+.pozabili {
+  color: #4885ed;
+  cursor: pointer;
+  position: absolute;
+  bottom: 100px;
+}
+
+.slo {
+  font-size: 12px;
+  margin-top: 230px;
+  position: absolute;
+  right: 415px;
+  cursor: pointer;
+ }
+
+.ds {
+  position: absolute;
+  margin-top: 210px;
+  right: -22px;
+  border-spacing: 20px;
+ }
+
+.ds2 {
+  cursor: pointer;
+  font-family: Roboto, Sans-serif;
+  font-size: 12px;
+}
